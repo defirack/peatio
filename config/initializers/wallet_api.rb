@@ -3,3 +3,4 @@ Peatio::Wallet.registry[:geth] = Ethereum::Wallet
 Peatio::Wallet.registry[:parity] = Ethereum::Wallet
 Peatio::Wallet.registry[:gnosis] = Gnosis::Wallet
 Peatio::Wallet.registry[:opendax] = Opendax::Wallet
+Peatio::Wallet.registry[:openfinex_cloud] = OpenfinexCloud::Wallet
